@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![MasterHead](https://www.dreamstime.com/stock-photo-data-science-hologram-futuristic-interface-concept-augmented-virtual-realit-high-quality-image99391861)](https://rishavchanda.io)
+![logo](https://github.com/the-coder007/the-coder007/blob/main/Datascience.png)
 <h1 align="center">Hi 👋, I'm Mritunjay Shawarn</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
