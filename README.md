@@ -1,5 +1,4 @@
-### Hi there 👋
-![logo](https://github.com/the-coder007/the-coder007/blob/main/Datascience.png)
+![logo]([https://github.com/the-coder007/the-coder007/blob/main/Datascience.png](https://github.com/the-coder007/the-coder007/blob/main/Datascience1.png))
 <h1 align="center">Hi 👋, I'm Mritunjay Shawarn</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
